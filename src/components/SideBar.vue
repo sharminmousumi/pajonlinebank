@@ -52,7 +52,7 @@ export default {
 }
 
 #top{
-margin-bottom: 3px;
+margin-bottom: 40px;
 }
 
 
